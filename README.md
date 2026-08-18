@@ -41,10 +41,10 @@
 * Technologies: Vue.js for admin panel.
 * Project Link: [Rasekhon](https://hq-competition.roqay.solution/).
 
-### Ojeel Platform – Full Stack Backend Developer
+### Meetat Platform – Full Stack Backend Developer
 * Designed and implemented backend, admin panel, website interface, and mobile APIs.
 * Supported scalable services for web and mobile platforms.
-* Project Link: [Ojeel](https://meetat.com.sa/).
+* Project Link: [Meetat](https://meetat.com.sa/).
 
 ### Cool & Handy Platform – Full Stack Backend Developer
 * •	Built backend logic, admin panel, and website interface.
